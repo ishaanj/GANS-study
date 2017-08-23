@@ -8,7 +8,7 @@ Generative models can often be difficult to train. Training a GAN requires findi
 
 *Advisor - Professor Madeliene Udell*
 
-*Project Team - Ishaan Jain (Me), Darpa Kalra*
+*Project Team - Ishaan Jain (Me), Darpan Kalra*
 
 ### Credits
 Some amazing codebases we used for this study
